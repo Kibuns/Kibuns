@@ -1,5 +1,5 @@
 ## I'm Nino Verhaegh :)
-I'm a student at Fontys HBO ICT in Eindhoven. I'm currently learning full-stack web development.
+I'm a student at Fontys HBO ICT in Eindhoven. I'm currently learning full-stack web development and game design 🎮.
 
 ## Github Stats 
 <img src="https://github-readme-stats.vercel.app/api?username=Kibuns&show_icons=true&theme=graywhite" />
@@ -9,8 +9,6 @@ I'm a student at Fontys HBO ICT in Eindhoven. I'm currently learning full-stack 
 ## Skills and Experience
 * ⚛ React
 * 🍃 Building REST services with Spring
-* ☕ Java
-* Kotlin
 * 💾SQL
 * ASP.net
 
