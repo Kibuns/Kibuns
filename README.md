@@ -16,9 +16,9 @@ I'm a student at Fontys HBO ICT in Eindhoven. I'm currently learning full-stack 
 
 ## Recent Projects
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kibuns&repo=Webshop-ChicnChoc" />
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kibuns&repo=Webshop-ChicnChoc" />](https://github.com/Kibuns/Webshop-ChicnChoc)
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DB01-4&repo=24Eat"/>
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=DB01-4&repo=24Eat"/>](https://github.com/DB01-4)
 
 
 
