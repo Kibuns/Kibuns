@@ -1,4 +1,4 @@
-## I'm Nino Verhaegh :)
+## I'm Nino Verhaegh
 I'm a student at Fontys HBO ICT in Eindhoven. I'm currently learning full-stack web development and game design 🎮.
 
 ## Github Stats 
@@ -7,14 +7,15 @@ I'm a student at Fontys HBO ICT in Eindhoven. I'm currently learning full-stack 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kibuns&layout=compact&theme=graywhite" width="496"/> 
 
 ## Skills and Experience
-* ⚛ React
-* 🍃 Building REST services with Spring
-* 💾SQL
-* ASP.net
+* ⚛ React and Angular
+* 🍃 Building REST services with Spring and Micronaut
+* 💾MongoDB and MySQL
+* Typescript, C#, Java, Golang, Python
+* 🎮Unity development
 
 ## Recent Projects
 
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kibuns&repo=Webshop-ChicnChoc" />](https://github.com/Kibuns/Webshop-ChicnChoc)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kibuns&repo=PixelSurvival" />](https://github.com/Kibuns/PixelSurvival)
 
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=DB01-4&repo=24Eat"/>](https://github.com/DB01-4)
 
