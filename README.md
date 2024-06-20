@@ -15,7 +15,7 @@ I'm a student at Fontys HBO ICT in Eindhoven. I'm currently learning full-stack 
 
 ## Recent Projects
 
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kibuns&repo=PixelSurvival" />](https://github.com/Kibuns/PixelSurvival)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kibuns&repo=Post-Processing" />](https://github.com/Kibuns/Post-Processing)
 
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=DB01-4&repo=24Eat"/>](https://github.com/DB01-4)
 
